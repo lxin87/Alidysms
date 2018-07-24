@@ -15,6 +15,7 @@
             "Aliyun\\":"src/lib"
         }
     },
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
