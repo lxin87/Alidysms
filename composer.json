@@ -6,6 +6,7 @@
             "email": "lx.xin@qq.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=5.9.0"
     },
@@ -15,7 +16,7 @@
             "Aliyun\\":"src/lib"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
