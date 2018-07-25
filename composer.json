@@ -7,6 +7,7 @@
         }
     ],
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.9.0"
     },
@@ -16,7 +17,6 @@
             "Aliyun\\":"src/lib"
         }
     },
-    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
