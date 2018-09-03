@@ -8,7 +8,6 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "1.0.0",
     "require": {
         "php": ">=5.9.0"
     },
